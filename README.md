@@ -1,6 +1,5 @@
 ### Cypress Automation practice
-Implemented: Interaction with main web elements
- Page Object Design Pattern
+Implemented: Interaction with main web elements, Page Object Design Pattern
 
 
 ### Ngx-Admin Angular 8 application from akveo.com
