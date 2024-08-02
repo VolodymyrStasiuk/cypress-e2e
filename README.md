@@ -1,5 +1,5 @@
-###Cypress Automation practice/
-Implemented: Interaction with main web elements/
+##Cypress Automation practice
+Implemented: Interaction with main web elements
  Page Object Design Pattern
 
 
